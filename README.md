@@ -8,4 +8,4 @@ Python Script:
 A single script is under labels folder, it is easy to read and modify.
 
 ![image](https://user-images.githubusercontent.com/62652681/175498600-4be0ba2a-c559-4ea1-97f8-61783ea0b782.png)
-</center> **sifted images of person from coco** </center> 
+**sifted images of person from coco**
