@@ -1,6 +1,6 @@
 # EasyToolforYourCustomDataset
 ## Introduction
-Want to train your deep learning models with your custom dataset? This tool allows you to increment your custom dataset with existing datasets like COCO, VOC, etc. It helps you get the specified labels you want from these large datasets, generating the structure for training the object detection models such as yolov5.       
+Want to train your deep learning models with your custom dataset? This tool allows you to increment your custom dataset with existing datasets like COCO. It helps you get the specified labels you want from these large datasets, generating the structure for training the object detection models such as yolov5.       
 
 ## Download txt labels of COCO2017:
 https://github.com/ultralytics/yolov5/releases/download/v1.0/coco2017labels.zip
